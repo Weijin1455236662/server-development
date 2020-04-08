@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cargoservice  #便于配置客户端知道正在查找哪个服务，对应到目录
+  profiles:
+    active:
+      default  #默认环境
+  cloud:
+    config:
+      uri: http://localhost:8888   #配置服务位置

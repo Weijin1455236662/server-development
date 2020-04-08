@@ -1,0 +1,45 @@
+table{
+    border-collapse: collapse;
+}
+table th{
+    text-align: center;
+    padding: 10px 0 3px;
+}
+table td{
+    text-align: center;
+    padding: 10px 0 3px;
+    height: 30px;
+}
+tr:first-child{
+    border-bottom: 1px solid #000000;
+}
+input{
+    display: none;
+}
+.listTitle{
+    margin-bottom: 20px;
+}
+.name{
+    width: 14vw;
+}
+.address{
+    width: 18vw;
+}
+.zipCode{
+    width: 14vw;
+}
+.phone{
+    width: 18vw;
+}
+.modify{
+    width: 12vw;
+}
+.delete{
+    width: 10vw;
+}
+td:first-child{
+    font-weight: bold;
+}
+.noDisplay{
+    display: none;
+}

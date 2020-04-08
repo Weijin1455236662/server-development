@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4452235d-fe5b-47ce-9ca7-e11667ff1aa8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CargoRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CargoRepositoryCustom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/example/db/CargoRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CargoRepositoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CustomerRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/soundsystem/TrackCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/ConcertConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/MyAnnotationApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/EncoreableIntroducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/MyXmlApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/db/hibernate4/HibernateSpittleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/domain/Spitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/domain/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/db/CustmerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/db/hibernate4/HibernateCustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/domain/Customers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/domain/Orders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/db/hibernate4/HibernateOrderRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spittr/db/hibernate4/SpitterRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spittr/db/hibernate4/CustmerRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spittr/db/hibernate4/SpittleRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spittr/db/hibernate4/RepositoryTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spittr/db/hibernate4/CustomerRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/spittr/db/hibernate4/test-data.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/spittr/db/hibernate4/schema.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/spittr/domain/Order.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spittr/db/hibernate4/OrderRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/example/db/hibernate4/RepositoryTest-context.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/com/example/db/hibernate4/RepositoryTest-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/example/db/hibernate4/schema.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/domain/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/domain/Cargo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/hibernate4/CustomerRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/com/example/db/hibernate4/test-data.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/hibernate4/CargoRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/hibernate4/RepositoryTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/hibernate4/JpaConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/jpa/JpaSpitterRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/hibernate4/HibernateCustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/hibernate4/HibernateCargoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/jpa/HibernateCustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/jpa/HibernateCargoRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/com/example/db/jpa/RepositoryTest-context.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/jpa/CustomerRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/CargoRepositoryCustom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/jpa/JpaCargoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/CargoRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/jpa/CargoRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/jpa/JpaConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/JpaConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/com/example/db/RepositoryTest-context.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/CustomerRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/db/CargoRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/db/CargoRepository.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="第七节-2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="第七节-2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1046" />
+    <option name="y" value="372" />
+    <option name="width" value="1884" />
+    <option name="height" value="1232" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section7-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section7-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../section9" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="spittr.db" />
+      <recent name="spittr.db.hibernate4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.db.hibernate4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\codej\section7-1\src\main\java\com\example\db" />
+      <recent name="C:\codej\section3\src\main\java\soundsystem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CargoRepositoryTest (1)">
+    <configuration name="CargoRepositoryTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section7-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.db" />
+      <option name="MAIN_CLASS_NAME" value="com.example.db.CargoRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CargoRepositoryTest.findByCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section7-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.db" />
+      <option name="MAIN_CLASS_NAME" value="com.example.db.CargoRepositoryTest" />
+      <option name="METHOD_NAME" value="findByCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CargoRepositoryTest.findOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section7-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.db" />
+      <option name="MAIN_CLASS_NAME" value="com.example.db.CargoRepositoryTest" />
+      <option name="METHOD_NAME" value="findOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerRepositoryTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section7-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.db" />
+      <option name="MAIN_CLASS_NAME" value="com.example.db.CustomerRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.db in section7-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="section7-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.db" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CargoRepositoryTest (1)" />
+        <item itemvalue="JUnit.com.example.db in section7-2" />
+        <item itemvalue="JUnit.CargoRepositoryTest.findOne" />
+        <item itemvalue="JUnit.CargoRepositoryTest.findByCustomer" />
+        <item itemvalue="JUnit.CustomerRepositoryTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4452235d-fe5b-47ce-9ca7-e11667ff1aa8" name="Default Changelist" comment="" />
+      <created>1582369295129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582369295129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomerRepositoryTest_(1) - 2020.03.06 at 18h 22m 31s.xml">
+      <configuration name="CustomerRepositoryTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerRepositoryTest_(1) - 2020.03.06 at 18h 22m 58s.xml">
+      <configuration name="CustomerRepositoryTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerRepositoryTest_(1) - 2020.03.06 at 18h 23m 29s.xml">
+      <configuration name="CustomerRepositoryTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerRepositoryTest_(1) - 2020.03.06 at 18h 24m 10s.xml">
+      <configuration name="CustomerRepositoryTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerRepositoryTest_(1) - 2020.03.06 at 18h 24m 42s.xml">
+      <configuration name="CustomerRepositoryTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_example_db_in_section7-2 - 2020.03.06 at 18h 25m 47s.xml">
+      <configuration name="com.example.db in section7-2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CargoRepositoryTest_findByCustomer - 2020.03.06 at 20h 03m 40s.xml">
+      <configuration name="CargoRepositoryTest.findByCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_example_db_in_section7-2 - 2020.03.06 at 20h 03m 57s.xml">
+      <configuration name="com.example.db in section7-2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CargoRepositoryTest_findOne - 2020.03.06 at 20h 05m 34s.xml">
+      <configuration name="CargoRepositoryTest.findOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CargoRepositoryTest_(1) - 2020.03.15 at 17h 25m 34s.xml">
+      <configuration name="CargoRepositoryTest (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2959573" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="DB Browser" order="5" weight="0.32951945" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21311475" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329235" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24942791" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32951945" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/trackcounter.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem2/TrackCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/BlankDisc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/DefaultEncoreable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Concert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/EncoreableIntroducer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/concert3.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/concert5.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/MyAnnotationApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/MyXmlApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/soundsystem/TrackCounterXmlTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar!/javax/persistence/Entity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar!/org/hibernate/criterion/Restrictions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-sources.jar!/org/hibernate/criterion/Restrictions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4008">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.0.7.RELEASE/spring-tx-4.0.7.RELEASE.jar!/org/springframework/transaction/annotation/Transactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.0.7.RELEASE/spring-tx-4.0.7.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="105" column="44" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/domain/Spitter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/db/hibernate4/CustmerRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/db/SpitterRepository.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-sources.jar!/org/hibernate/criterion/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/db/SpittleRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/db/hibernate4/HibernateSpitterRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/db/hibernate4/HibernateSpittleRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/spittr/domain/Spittle.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar!/javax/persistence/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar!/javax/persistence/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.0.7.RELEASE/spring-orm-4.0.7.RELEASE.jar!/org/springframework/orm/hibernate4/LocalSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/jpa/JpaSpitterRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/jpa/JpaSpittleRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/db/jpa/RepositoryTestConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/jpa/JpaCustomerRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/jpa/JpaCargoRepository.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../action/Chapter_11/jpa-springdata/src/test/java/spittr/db/jpa/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="55" selection-start-line="55" selection-end-line="68" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/com/example/db/RepositoryTest-context.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/db/CustomerRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.5.1.RELEASE/spring-data-commons-1.5.1.RELEASE.jar!/org/springframework/data/repository/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/domain/Cargo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/domain/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.5.1.RELEASE/spring-data-commons-1.5.1.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.5.1.RELEASE/spring-data-commons-1.5.1.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.3.2.RELEASE/spring-data-jpa-1.3.2.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/com/example/db/test-data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/db/JpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/example/db/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CargoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/db/CargoRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CargoRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/db/CargoRepositoryCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

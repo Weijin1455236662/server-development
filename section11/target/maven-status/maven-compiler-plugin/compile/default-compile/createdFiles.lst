@@ -1,0 +1,6 @@
+com/example/domain/Cargo.class
+com/example/services/CargoService.class
+com/example/controllers/CargoServiceController.class
+com/example/domain/Customer.class
+com/example/Application.class
+com/example/services/CustomerService.class

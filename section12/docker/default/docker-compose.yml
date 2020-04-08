@@ -1,0 +1,26 @@
+version: '2'
+services:
+  configserver:
+    image: example/confsvr:section12
+    ports:
+      - "8888:8888"
+  database:
+    image: mysql:5.7
+    ports:
+      - "3306:3306"
+    environment:
+#      MYSQL_USER: "root"
+      MYSQL_ROOT_PASSWORD: "exampledb20"
+      MYSQL_DATABASE:       "exampledb12"
+  cargoservice:
+    image: example/cargo-service:section12
+    ports:
+      - "8080:8080"
+    environment:
+      PROFILE: "default"
+      CONFIGSERVER_URI: "http://configserver:8888"
+      CONFIGSERVER_PORT:   "8888"
+      DATABASESERVER_PORT: "3306"
+#    depends_on:
+#      - configserver
+#      - database

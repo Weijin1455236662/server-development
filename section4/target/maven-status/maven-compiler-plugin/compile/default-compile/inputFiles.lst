@@ -1,0 +1,9 @@
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/Person.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/data/PersonRepository.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/config/AddressBookWebInitializer.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/config/RootConfig.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/data/JdbcPersonRepository.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/web/WebConfig.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/config/DataConfig.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/web/HomeController.java
+/Users/wj/学习文件/大三下/3.服务端开发/section4/src/main/java/example/web/PersonController.java
