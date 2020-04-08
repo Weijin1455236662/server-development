@@ -1,0 +1,64 @@
+body {
+	font-family: sans-serif;
+	margin: 20px 3vw;
+	box-shadow: 6px 6px 20px 4px #e4e8ef;
+	padding: 30px 4vw;
+}
+input{
+	outline-style: none;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	padding: 0 2px;
+	width: 10vw;
+	font-size: 16px;
+}
+input[type=submit]{
+	width: 5vw;
+}
+button{
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	outline: none;
+	font-size: 14px;
+}
+button:hover{
+	border: 1px solid #409eff;
+}
+.personList h1 {
+	font-size: 16pt;
+}
+
+.personList ul {
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+} 
+
+.personList ul li:first-child {
+	border-top: 0px;
+} 
+
+.personList ul li {
+	border-top: 1px solid #cccccc;
+} 
+
+.personLocation {
+	font-size: 14pt;
+}
+
+.personForm h1 {
+	font-size: 16pt;
+}
+
+label.error {
+	color: red;
+}
+
+input.error {
+	background-color: #ffcccc;
+}
+
+div.errors {
+	background-color: #ffcccc;
+	border: 2px solid red;
+}
