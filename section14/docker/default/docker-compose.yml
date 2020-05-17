@@ -1,0 +1,60 @@
+version: '2'
+services:
+  eurekaserver:
+    image: example/eurekasvr:section14
+    ports:
+      - "8761:8761"
+  configserver:
+    image: example/confsvr:section14
+    ports:
+      - "8888:8888"
+    environment:
+      EUREKASERVER_URI: "http://eurekaserver:8761/eureka/"
+      EUREKASERVER_PORT: "8761"
+  database:
+    image: mysql:5.7
+    ports:
+      - "3306:3306"
+    environment:
+#      MYSQL_USER: "root"
+      MYSQL_ROOT_PASSWORD: "exampledb20"
+      MYSQL_DATABASE:       "exampledb14"
+  cargoservice:
+    image: example/cargo-service:section14
+    ports:
+      - "8080:8080"
+    environment:
+      PROFILE: "default"
+      SERVER_PORT: "8080"
+      CONFIGSERVER_URI: "http://configserver:8888"
+      CONFIGSERVER_PORT:   "8888"
+      EUREKASERVER_URI: "http://eurekaserver:8761/eureka/"
+      EUREKASERVER_PORT:   "8761"
+      DATABASESERVER_PORT: "3306"
+#    depends_on:
+#      - configserver
+#      - database
+  customerservice:
+    image: example/customer-service:section14
+#    ports:
+#      - "8085:8085"
+    environment:
+      PROFILE: "default"
+      SERVER_PORT: "8085"
+      CONFIGSERVER_URI: "http://configserver:8888"
+      CONFIGSERVER_PORT:   "8888"
+      EUREKASERVER_URI: "http://eurekaserver:8761/eureka/"
+      EUREKASERVER_PORT:   "8761"
+      DATABASESERVER_PORT: "3306"
+#  customerservice2:
+#    image: example/customer-service:section14
+#    ports:
+#      - "8086:8086"
+#    environment:
+#      PROFILE: "default"
+#      SERVER_PORT: "8086"
+#      CONFIGSERVER_URI: "http://configserver:8888"
+#      CONFIGSERVER_PORT:   "8888"
+#      EUREKASERVER_URI: "http://eurekaserver:8761/eureka/"
+#      EUREKASERVER_PORT:   "8761"
+#      DATABASESERVER_PORT: "3306"
