@@ -27,7 +27,7 @@
         <servletApiVersion>3.1.0</servletApiVersion>
         <jspApiVersion>2.1</jspApiVersion>
         <jspElVersion>2.2.4</jspElVersion>
-        <junitVersion>4.11</junitVersion>
+        <junitVersion>4.13.1</junitVersion>
         <mockitoVersion>1.9.5</mockitoVersion>
         <hamcrestVersion>1.3</hamcrestVersion>
         <aspectJVersion>1.7.2</aspectJVersion>
