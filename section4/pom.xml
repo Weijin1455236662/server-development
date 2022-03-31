@@ -16,7 +16,7 @@
         <org.eclipse.jetty.util.URI.charset>UTF-8</org.eclipse.jetty.util.URI.charset>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <springVersion>4.0.7.RELEASE</springVersion>
+        <springVersion>5.3.18</springVersion>
         <h2Version>1.4.182</h2Version>
         <hibernateValidatorVersion>5.0.1.Final</hibernateValidatorVersion>
         <commonsLangVersion>3.1</commonsLangVersion>
